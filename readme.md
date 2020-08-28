@@ -7,3 +7,7 @@ A simple list
  - Fourth Item
  
  I'm done with bullet lists
+
+signed, 
+
+Chance
